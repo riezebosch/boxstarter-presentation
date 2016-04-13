@@ -1,0 +1,128 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 10,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "landscape.html",
+        "id": "landscape",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "virtualization.html",
+        "id": "virtualization",
+        "class": "step",
+        "data": {
+            "x": 2300,
+            "y": -1000,
+            "z": -100,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "provisioning.html",
+        "id": "provisioning",
+        "class": "step",
+        "data": {
+            "x": 2300,
+            "y": 1300,
+            "z": -100,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "installation.html",
+        "id": "installation",
+        "class": "step",
+        "data": {
+            "x": 1200,
+            "y": 1000,
+            "z": -200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "packages.html",
+        "id": "packages",
+        "class": "step",
+        "data": {
+            "x": 1200,
+            "y": 1500,
+            "z": -500,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "feed.html",
+        "id": "feed",
+        "class": "step",
+        "data": {
+            "x": 700,
+            "y": 1500,
+            "z": -500,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "package-managers.html",
+        "id": "package-managers",
+        "class": "step",
+        "data": {
+            "x": 1200,
+            "y": 2000,
+            "z": -500,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "provisioners.html",
+        "id": "provisioners",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 1500,
+            "z": -200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 270
+        }
+    }
+]
