@@ -124,5 +124,33 @@
             "rotate-y": 0,
             "rotate-z": 270
         }
+    },
+    {
+        "uri": "hypervisors.html",
+        "id": "hypervisors",
+        "class": "step",
+        "data": {
+            "x": 1800,
+            "y": -1300,
+            "z": -200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "vm-managers.html",
+        "id": "vm-managers",
+        "class": "step",
+        "data": {
+            "x": 1800,
+            "y": -600,
+            "z": -200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
     }
 ]
