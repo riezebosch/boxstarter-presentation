@@ -166,5 +166,19 @@
             "rotate-y": 0,
             "rotate-z": 90
         }
+    },
+    {
+        "uri": "containers.html",
+        "id": "containers",
+        "class": "step",
+        "data": {
+            "x": 1300,
+            "y": -1700,
+            "z": -200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
     }
 ]
