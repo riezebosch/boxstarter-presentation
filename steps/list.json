@@ -88,7 +88,7 @@
         "id": "feed",
         "class": "step",
         "data": {
-            "x": 700,
+            "x": 500,
             "y": 1500,
             "z": -500,
             "scale": 1,
@@ -116,7 +116,7 @@
         "id": "provisioners",
         "class": "step",
         "data": {
-            "x": 0,
+            "x": -200,
             "y": 1500,
             "z": -200,
             "scale": 1,
@@ -145,6 +145,20 @@
         "class": "step",
         "data": {
             "x": 1800,
+            "y": -600,
+            "z": -200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "vm-create.html",
+        "id": "vm-create",
+        "class": "step",
+        "data": {
+            "x": 1500,
             "y": -600,
             "z": -200,
             "scale": 1,
