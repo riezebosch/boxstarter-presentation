@@ -1,6 +1,6 @@
 <h2>provisioning windows</h2>
-
-<ul>
-    <li><span class="powershell">powershell</span> &rArr; chocolatey &rArr; nuget &rArr; boxstarter</li>
-    <li><span class="powershell">powershell</span> &rArr; boxstarter &rArr; chocolatey &rArr; nuget &rArr; <span class="powershell">powershell</span> &rArr; msi</li>
-</ul>
+<ol>
+    <li><span class="powershell">powershell</span> &rArr; chocolatey</li>
+    <li>chocolatey &rArr; boxstarter</li>
+    <li>boxstarter &rArr; chocolatey &rArr;  <span class="powershell">nuget+powershell</span> &rArr; msi</li>
+</ol>
