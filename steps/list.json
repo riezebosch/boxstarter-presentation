@@ -194,5 +194,33 @@
             "rotate-y": 0,
             "rotate-z": 0
         }
+    },
+    {
+        "uri": "provisioning-windows.html",
+        "id": "provisioning-windows",
+        "class": "step",
+        "data": {
+            "x": -400,
+            "y": -1100,
+            "z": -200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "provisioning-windows-powershell.html",
+        "id": "provisioning-windows-powershell",
+        "class": "step",
+        "data": {
+            "x": -400,
+            "y": -1100,
+            "z": -201,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 180,
+            "rotate-z": 90
+        }
     }
 ]

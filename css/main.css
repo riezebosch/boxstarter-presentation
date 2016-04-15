@@ -29,3 +29,14 @@ li {
     color: gray;
 }
 
+.powershell {
+    color: red;
+}
+
+#provisioning-windows:not(.active) {
+    opacity: 0;
+}
+
+#provisioning-windows-powershell:not(.active) {
+    opacity: 0;
+}
