@@ -33,6 +33,12 @@ li {
     color: red;
 }
 
+.step.active ~ #provisioning-windows {
+    opacity: 0.3;
+}
+
+
+
 #provisioning-windows:not(.active) {
     opacity: 0;
 }
