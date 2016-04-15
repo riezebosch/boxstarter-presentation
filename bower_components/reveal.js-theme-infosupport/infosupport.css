@@ -1,0 +1,40 @@
+/**
+ * A Info Support theme for reveal.js presentations, similar
+ * to the default theme. The accent color is darkblue.
+ *
+ * This theme is Copyright (C) 2016 Manuel Riezebosch, https://github.com/riezebosch/reveal-infosupport. It is MIT licensed.
+ * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+@font-face {
+  font-family: 'Calibri';
+  src: url("Calibri.ttf") format("truetype");
+}
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+body {
+  background-image: url("waaier.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right bottom;
+  background-color: #fff;
+}
+
+.step {
+  font-family: "Calibri", sans-serif;
+}
+
+
+/*********************************************
+ * Theme specific customizations
+ *********************************************/
+#logo {
+  background-image: url(logo.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: fixed;
+  bottom: 15px;
+  left: 15px;
+  height: 5%;
+  width: 100%;
+}
