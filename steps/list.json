@@ -146,7 +146,7 @@
         "data": {
             "x": 1800,
             "y": -600,
-            "z": -200,
+            "z": -500,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -160,6 +160,20 @@
         "data": {
             "x": 1500,
             "y": -600,
+            "z": -500,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "cloud.html",
+        "id": "cloud",
+        "class": "step",
+        "data": {
+            "x": 1400,
+            "y": -1300,
             "z": -200,
             "scale": 1,
             "rotate-x": 0,
@@ -172,7 +186,7 @@
         "id": "containers",
         "class": "step",
         "data": {
-            "x": 1300,
+            "x": 1100,
             "y": -1700,
             "z": -200,
             "scale": 1,
