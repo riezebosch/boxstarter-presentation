@@ -200,13 +200,13 @@
         "id": "provisioning-windows",
         "class": "step",
         "data": {
-            "x": -400,
-            "y": -1100,
-            "z": -200,
+            "x": -3000,
+            "y": -1500,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": -90
+            "rotate-z": 0
         }
     },
     {
@@ -214,13 +214,111 @@
         "id": "provisioning-windows-powershell",
         "class": "step",
         "data": {
-            "x": -400,
-            "y": -1100,
-            "z": -201,
+            "x": -3500,
+            "y": 1000,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 180,
-            "rotate-z": 90
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "provisioning-windows-powershell2.html",
+        "id": "provisioning-windows-powershell2",
+        "class": "step",
+        "data": {
+            "x": -3500,
+            "y": 100,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "provisioning-windows-powershell3.html",
+        "id": "provisioning-windows-powershell3",
+        "class": "step",
+        "data": {
+            "x": -3500,
+            "y": -800,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "provisioning-windows-powershell4.html",
+        "id": "provisioning-windows-powershell4",
+        "class": "step",
+        "data": {
+            "x": -3200,
+            "y": 700,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "provisioning-windows-powershell5.html",
+        "id": "provisioning-windows-powershell5",
+        "class": "step",
+        "data": {
+            "x": -3200,
+            "y": -200,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "provisioning-windows-powershell6.html",
+        "id": "provisioning-windows-powershell6",
+        "class": "step",
+        "data": {
+            "x": -3200,
+            "y": -800,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "provisioning-windows-powershell7.html",
+        "id": "provisioning-windows-powershell7",
+        "class": "step",
+        "data": {
+            "x": -2400,
+            "y": -1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "done.html",
+        "id": "done",
+        "class": "step",
+        "data": {
+            "x": 150,
+            "y": -800,
+            "z": -25000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
         }
     }
 ]
